@@ -1,0 +1,27 @@
+# created by eselect-repo
+
+[mrtnvgr]
+location = /var/db/repos/mrtnvgr
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/mrtnvgr.git
+
+[guru]
+location = /var/db/repos/guru
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/guru.git
+
+[swegener]
+location = /var/db/repos/swegener
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/swegener.git
+
+[xira]
+location = /var/db/repos/xira
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/xira.git
+
+
+[mim]
+location = /var/db/repos/mim
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/mim.git

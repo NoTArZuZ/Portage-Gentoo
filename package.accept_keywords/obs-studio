@@ -1,0 +1,3 @@
+media-video/obs-studio ~amd64
+media-video/obs-vaapi ~amd64
+media-plugins/obs-gstreamer ~amd64

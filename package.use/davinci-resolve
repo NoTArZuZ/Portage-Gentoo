@@ -1,0 +1,4 @@
+dev-libs/libxml2 icu
+dev-qt/qtwebengine alsa bindist pulseaudio widgets
+dev-qt/qtcore icu
+dev-qt/qtwebsockets qml
