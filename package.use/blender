@@ -1,10 +1,10 @@
-media-gfx/blender jemalloc pulseaudio osl sdl llvm_slot_17 -llvm_slot_18
-media-libs/osl llvm_slot_17 -llvm_slot_18
-media-libs/mesa llvm_slot_17 -llvm_slot_18
+media-gfx/blender jemalloc pulseaudio osl sdl
+media-libs/osl
+media-libs/mesa
 media-libs/freetype brotli
 media-video/ffmpeg vorbis mp3 vpx theora xvid
 dev-util/hip -opencl
 media-gfx/openvdb jpeg png
 media-libs/libde265 sdl
-media-libs/oidn -hip openimageio llvm_slot_17
-dev-lang/ispc llvm_slot_17 -llvm_slot_18
+media-libs/oidn -hip openimageio
+dev-lang/ispc

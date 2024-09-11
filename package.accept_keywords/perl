@@ -1,1 +1,2 @@
 dev-perl/URI-Encode ~amd64
+perl-core/Compress-Raw-Zlib ~amd64
